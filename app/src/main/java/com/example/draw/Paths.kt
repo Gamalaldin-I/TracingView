@@ -12,9 +12,7 @@ object Paths {
         return paths
     }
     // you can add more paths here
-    //
-    //
-    //
+
     private fun addPath(path:Path){
         paths.add(path)
     }
